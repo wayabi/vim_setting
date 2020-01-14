@@ -1,5 +1,6 @@
 set shiftwidth=2
 set tabstop=2
+set mouse-=a
 
 " neobundle settings {{{
 if has('vim_starting')
